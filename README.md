@@ -7,7 +7,7 @@
 </h2>
 
 <p align="center">
-  Esse projeto foi desenvolvido durante o curso Next Level Week, promovido pela Rocketseat, onde foi trabalhado os conceitos de: CSS, HTML, JavaScript, Node, Banco de dados e versionamento de código. Você conferir esse trabalho clonando esse repositório. 
+  Esse projeto foi desenvolvido durante o curso Next Level Week, promovido pela Rocketseat, onde foi utilizado os conceitos de CSS, HTML, JavaScript, Node, Banco de dados e versionamento de código. Você pode conferir meu trabalho clonando esse repositório. 
 </p>
 
 <img src=".github/welcome.png" >
